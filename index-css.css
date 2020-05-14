@@ -1,0 +1,26 @@
+.header{
+	padding-bottom: 20px;
+	/*font-family: 'Major Mono Display', monospace;*/
+	font-family: 'Playfair Display', serif;
+}
+.container{
+	padding-top: 50px;
+	width: 80%;
+	margin: auto;
+	/*padding-left: 10%;
+	padding-right: 10%;*/
+	font-family: 'Playfair Display', serif;
+}
+
+.article{
+	width: 80%;
+	padding-bottom: 50px;
+}
+
+.article_title{
+	font-weight: bold;
+}
+
+.article_print{
+	
+}
